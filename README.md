@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on a platform to help  students with assignments, and a secret  website.<br><br>👯 I’m looking to collaborate on web development projects, e-commerce platforms, and AI/ML-based applications.<br><br>🤝 I’m looking for help with optimizing UI/UX for better user experience and scaling web applications.<br><br>🌱 I’m currently learning advanced css and next js, and improving my skills in AI, ML, and full-stack development.<br><br>💬 Ask me about web design, AI/ML, e-commerce strategies, content creation, and tech competitions.<br><br>⚡ Fun fact I’ve earned over 3.5 lakh while studying 
+🔭 I’m currently working on a platform to help  students with assignments, and a secret  website.<br><br>👯 I’m looking to collaborate on web development projects, e-commerce platforms, and AI/ML-based applications.<br><br>🤝 I’m looking for help with optimizing UI/UX for better user experience and scaling web applications.<br><br>🌱 I’m currently learning advanced css and next js, and improving my skills in AI, ML, and full-stack development.<br><br>💬 Ask me about web design, AI/ML, e-commerce strategies, content creation, and tech competitions.<br><br>
 
 
 ## 🌐 Socials:
