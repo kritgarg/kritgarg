@@ -1,6 +1,7 @@
 <h1 align="center">Hey <img src="https://camo.githubusercontent.com/e7ae6aeae08b584ce56cd85e89dc9edbd700924e1da6b935e8a6ddae8e75241a/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934" height="30px" width="30px"> I'm Krit Garg</h1>
 <h3 align="center">Full-Stack Developer | Tech Innovator</h3>
 
+<img src="https://holopin.io/@kritgarg" alt="Banner" width="100%" />
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
